@@ -1,0 +1,184 @@
+/* Estilos Gerais */
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+}
+
+body{
+    background-color: #f4f4f4;
+}
+
+main{
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 135px 0 0;
+    padding: 20px;
+}
+
+header{
+    background-color: #000;
+    color: #ffcc00;
+    padding: 20px;
+    text-align: center;
+    /* /Posição do elemento*  */ 
+    position: fixed;
+    /* Top 0 = grudar no topo Left 0 = grudar na esquerda */
+    top: 0;
+    left: 0;
+    width: 100vw;
+}
+
+header h1{
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p{
+    display: block;
+    margin: 5px 0;
+    font-size: 1.2em;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a{
+    color: #ffcc00;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    background-color: #ffcc00;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+a{  
+    text-decoration: none;
+}
+
+/* Seções */
+h2{
+    color: #ffcc00;
+}
+
+section{
+    margin-bottom: 40px;
+}
+
+article{
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+article:hover{
+    background-color: #ffcc00;
+    cursor: pointer;
+}
+
+.palestrantes-fotos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+figure{
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+}
+
+figure img{
+    max-width: 50%;
+    border-radius: 8px;
+    box-shadow: 2px 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+figcaption{
+    margin-top: 10px;
+    font-style: italic;
+}
+
+address{
+    font-style: normal;
+    color: #555
+}
+
+mark{
+    background-color: #ffcc00;
+    padding: 0 5px;
+}
+
+/* Perguntas Frequentes */
+details{
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+details summary{
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Rodapé */
+footer{
+    background-color: #000;
+    color: #ffcc00;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p{
+    margin: 0;
+    color: #fff;
+    line-height: 25px;
+}
+
+footer address a{
+    margin: 0;
+    color: #fff;
+    line-height: 25px;
+}
+
+footer address a:hover{
+    color: #ffcc00;
+}
+
+.inscricoes{
+    padding: 5px;
+    background-color: #ffcc00;
+    color: #000;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.inscricoes a{
+    background-color: #ffcc00;
+    color: #d70016;
+    border-radius: 5px;
+}
+
+.inscricoes a:hover{
+    padding: 5px;
+    background-color: #fff;
+    color: #000;
+}

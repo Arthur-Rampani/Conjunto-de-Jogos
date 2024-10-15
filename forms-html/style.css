@@ -1,0 +1,65 @@
+/* Estilo básico da página */
+body{
+    font-family: arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    /* Reset CSS */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    margin: 0 auto;
+    width: 40%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    /* Sombra - RGBA - A = Canal Alfa, transparência*/
+    box-shadow: 0px 4px 8px rgba(11, 11, 11, 0.783);
+}
+
+h1{
+    text-align: center;
+    color: #4A90E2;
+}
+
+.fieldGenero{
+    width: 10%;
+}
+
+label{
+    display: block;
+    margin-top: 10px;
+}
+
+fieldset input{
+    width: 10%;
+}
+
+input, select, textarea, button{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px sloid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button{
+    background-color: #4A90E2;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover{
+    background-color: #357ABD;
+}
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #999;
+}
