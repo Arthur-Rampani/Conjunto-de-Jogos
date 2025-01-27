@@ -1,0 +1,31 @@
+:root{
+    /* Cores gradiente */
+    --cor1-gradiente: #916BFC;
+    --cor2-gradiente: #5A40FB;
+    --cor3-gradiente: #18007E;
+
+    /* Cores dos fundos do header */
+    --cor-fundo-header-esquerda: #FFFFFF;
+    --cor-fundo-header-direita: #D9D9D9;
+
+    /* Cor fundo faixa direita */
+    --cor-fundo-faixa-direita: #5A40FB;
+
+    /* Cor fonte títulos da header */
+    --cor-fonte-titulos-header: #18007E;
+
+    /* Cor de fundo das fontes */
+    --cor-fonte1: #FFFFFF;
+    --cor-fonte2: #623FF7;
+
+    /* Cor de fundo navbar */
+    --cor-fundo-navbar: #000000;
+
+    /* Cor de fundo container 01 */
+    --cor-fundo-containers: #916BFC;
+
+    --cor-fundo-cards: #FFFFFF;
+
+    --cor-fundo-redes-sociais1: #3603CA;
+
+}

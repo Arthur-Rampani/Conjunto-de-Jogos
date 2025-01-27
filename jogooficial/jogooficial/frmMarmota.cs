@@ -29,6 +29,14 @@ namespace jogooficial
         {
             //fazendo com a posição aleatória
 
+            int x = random.Next(12, 649); //Posição mínima e máxima de eixo x
+            int y = random.Next(26, 343); //Posição mínima e máxima de eixo y
+            pictureBoxMarmota.Location = new Point(x, y);
+            tmrTempo.Enabled = true;
+            btnSair.Visible = false;
+            btnResetar.Visible = false;
+            btnIniciar.Visible = false;
+
             contador = contador + 1;
             labelPontuaçãoNúmero.Text = contador.ToString();
 
@@ -92,7 +100,7 @@ namespace jogooficial
         {
             int x = random.Next(12, 649); //Posição mínima e máxima de eixo x
             int y = random.Next(26, 343); //Posição mínima e máxima de eixo y
-          
+            pictureBoxMarmota.Location = new Point(x, y);
             tmrTempo.Enabled = true;
             btnSair.Visible = false;
             btnResetar.Visible = false;
@@ -101,9 +109,9 @@ namespace jogooficial
 
         private void trmMarmota_Tick(object sender, EventArgs e)
         {
-            int x = random.Next(12, 649); //Posição mínima e máxima de eixo x
-            int y = random.Next(26, 343); //Posição mínima e máxima de eixo y
-            pictureBoxMarmota.Location = new Point(x, y);
+            //int x = random.Next(12, 649); //Posição mínima e máxima de eixo x
+            //int y = random.Next(26, 343); //Posição mínima e máxima de eixo y
+            //pictureBoxMarmota.Location = new Point(x, y);
         }
     }
 }

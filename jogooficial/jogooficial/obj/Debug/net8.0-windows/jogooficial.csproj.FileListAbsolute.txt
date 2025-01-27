@@ -1,0 +1,107 @@
+C:\Users\aluno\Desktop\jogooficial\bin\Debug\net8.0-windows\jogooficial.exe
+C:\Users\aluno\Desktop\jogooficial\bin\Debug\net8.0-windows\jogooficial.deps.json
+C:\Users\aluno\Desktop\jogooficial\bin\Debug\net8.0-windows\jogooficial.runtimeconfig.json
+C:\Users\aluno\Desktop\jogooficial\bin\Debug\net8.0-windows\jogooficial.dll
+C:\Users\aluno\Desktop\jogooficial\bin\Debug\net8.0-windows\jogooficial.pdb
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.Form1.resources
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.AssemblyInfo.cs
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.dll
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\refint\jogooficial.dll
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.pdb
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.genruntimeconfig.cache
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\ref\jogooficial.dll
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.Form2.resources
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.Properties.Resources.resources
+C:\Users\aluno\Desktop\jogooficial\obj\Debug\net8.0-windows\jogooficial.Form3.resources
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.dll
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\refint\jogooficial.dll
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.pdb
+C:\Users\aluno\Desktop\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.exe
+C:\Users\aluno\Desktop\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.deps.json
+C:\Users\aluno\Desktop\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.runtimeconfig.json
+C:\Users\aluno\Desktop\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.dll
+C:\Users\aluno\Desktop\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.pdb
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.Form1.resources
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.Form2.resources
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.Form3.resources
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.Properties.Resources.resources
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.AssemblyInfo.cs
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.genruntimeconfig.cache
+C:\Users\aluno\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\ref\jogooficial.dll
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.exe
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.deps.json
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.runtimeconfig.json
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.dll
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.pdb
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.Properties.Resources.resources
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.csproj.GenerateResource.cache
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.AssemblyInfoInputs.cache
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.AssemblyInfo.cs
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.dll
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\refint\jogooficial.dll
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.pdb
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.genruntimeconfig.cache
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\ref\jogooficial.dll
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.Jogo1.resources
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.exe
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.deps.json
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.runtimeconfig.json
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.dll
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.pdb
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.Jogo1.resources
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.Properties.Resources.resources
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.csproj.GenerateResource.cache
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.AssemblyInfoInputs.cache
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.AssemblyInfo.cs
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.dll
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\refint\jogooficial.dll
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.pdb
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.genruntimeconfig.cache
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\ref\jogooficial.dll
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmAcerteoNumero.resources
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmFrasesMotivacionais.resources
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmJurosCompostos.resources
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmJurosSimples.resources
+C:\Users\Roger\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmPapagaio.resources
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmAcerteoNumero.resources
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmFrasesMotivacionais.resources
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmJurosCompostos.resources
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmJurosSimples.resources
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmPapagaio.resources
+C:\Users\SENAI\Desktop\Visual Studio 2022\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmMarmota.resources
+C:\Users\Roger\Desktop\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.exe
+C:\Users\Roger\Desktop\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.deps.json
+C:\Users\Roger\Desktop\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.runtimeconfig.json
+C:\Users\Roger\Desktop\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.dll
+C:\Users\Roger\Desktop\jogooficial\jogooficial\bin\Debug\net8.0-windows\jogooficial.pdb
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmAcerteoNumero.resources
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmFrasesMotivacionais.resources
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmJurosCompostos.resources
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmJurosSimples.resources
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmMarmota.resources
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.frmPapagaio.resources
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.Properties.Resources.resources
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.csproj.GenerateResource.cache
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.AssemblyInfoInputs.cache
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.AssemblyInfo.cs
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.dll
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\refint\jogooficial.dll
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.pdb
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.genruntimeconfig.cache
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\ref\jogooficial.dll
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.TelaInicial.resources
+C:\Users\Roger\Desktop\jogooficial\jogooficial\obj\Debug\net8.0-windows\jogooficial.sourcelink.json

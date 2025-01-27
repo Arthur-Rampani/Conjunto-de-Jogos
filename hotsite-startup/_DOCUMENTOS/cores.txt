@@ -1,6 +1,0 @@
-Cores do Projeto
-
-Cor 01 - #0FAEF2
-Cor 02 - #0F1EF2
-Cor 03 - #0F66F2
-Cor 04 - #1D3F75
